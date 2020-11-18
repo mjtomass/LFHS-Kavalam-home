@@ -36,7 +36,7 @@
   ======================================================== -->
 </head>
 
-<body oncontextmenu="return false;">
+<body oncontextmenu="return false;" ondragstart="return false">
  <script language="javascript"> 
     document.onkeydown = function (e) { 
                 if (event.keyCode == 123) { 
@@ -96,10 +96,8 @@
      if (e.ctrlKey && e.shiftKey && e.keyCode == 'E'.charCodeAt(0)) { 
                     return false; 
                 } 
-     if (e.PrintScreen.charCodeAt(0)) { 
-                    return false; 
-                } 
-            } 
+    
+    } 
 </script>
 
   <!-- ======= Header ======= -->
