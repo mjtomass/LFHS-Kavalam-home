@@ -8,8 +8,14 @@
     
     var password;
     var pass1="Lfhs@Lfhs2020";
-    
+    var pass1 = document.getElementById("myInput");
     password=prompt('Please enter your password to view this page!','');
+    
+  if (pass1.type === "password") {
+    pass1.type = "text";
+  } else {
+    pass1.type = "password";
+  }
     
     if (password==pass1)
       alert('Password Correct! Click OK to enter!');
