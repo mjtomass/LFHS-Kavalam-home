@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>LFHS Kavalam</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Mentor - v2.1.0
+  * Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body oncontextmenu="return false;">
+  <script language="javascript"> 
+    document.onkeydown = function (e) { 
+                if (event.keyCode == 123) { 
+                    return false; 
+                } 
+                if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) { 
+                    return false; 
+                } 
+                if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) { 
+                    return false; 
+                } 
+                if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) { 
+                    return false; 
+                } 
+                if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) { 
+                    return false; 
+                } 
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 'K'.charCodeAt(0)) {
+      return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'S'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'W'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'A'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'L'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'Y'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'T'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'Z'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'X'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'D'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'F'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'G'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'H'.charCodeAt(0)) { 
+                    return false; 
+                } 
+     if (e.ctrlKey && e.shiftKey && e.keyCode == 'E'.charCodeAt(0)) { 
+                    return false; 
+                } 
+            } 
+</script>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      <h1 class="logo mr-auto"><a href="">LFHS KAVALAM</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="courses.html">Courses</a></li>
+          <li><a href="trainers.html">Staff</a></li>
+          <li><a href="Achevement.html">Achevement</a></li>
+         
+             <li><a href="latest.html">Latest News</a><li>
+ <li><a href="Gallary.html">Gallary</a><li>
+<li class="drop-down"><a href="">Alumni</a>
+            <ul>
+
+<li><a href="2019-20.html">2019-20</a></li>
+<li><a href="2018-19.html">2018-19</a></li>             
+<li><a href="2017-18.html">2017-18</a></li>
+<li><a href="2016-17.html">2016-17</a></li>
+<li><a href="2015-16.html">2015-16</a></li>
+<li class="drop-down"><a href="#">Before 2015-16</a>
+                <ul>
+                  <li><a href="2014-15.html">2014-15</a></li>
+                  <li><a href="2013-14.html">2013-14</a></li>
+                  <li><a href="2012-13.html">2012-13</a></li>
+                  <li><a href="2011-12.html">2011-12</a></li>
+                  <li><a href="2010-11.html">2010-11</a></li>
+                </ul>
+              </li>
+
+
+
+
+            </ul>
+          </li>
+          <li><a href="contact.html">contact</a></li>
+
+
+        </ul>
+      </nav><!-- .nav-menu -->
+
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main" data-aos="fade-in">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs">
+      <div class="container">
+        <h2>Old Victers Classes</h2>
+      </div>
+    </div><!-- End Breadcrumbs -->
+    
+    
+    
+    
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
+        
+        
+        <h2><center>Old Victers Classes</center></h2>
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-3 col-md-4">
+            <div class="icon-box">
+              <i class="ri-store-line" style="color: #ffbb2c;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=NMOZXaZ9SEs&list=PLFMb-2_G0bMau68HbXU4ypYz-o59vpoaG">Class 1</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=HB0qffPUjEo&list=PLFMb-2_G0bMZuZvntGy8DrGKkAti1Di4u">Class 2</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=QupcRG6wivI&list=PLFMb-2_G0bMZaBEYbyJqAzFJQzrMP-rvk">Class 3</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=pS3ynf-rpk8&list=PLFMb-2_G0bMYQ8Op027UCqz8JIUE4rMUQ">Class 4</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-database-2-line" style="color: #47aeff;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=yxAOmj1vQ5g&list=PLFMb-2_G0bMbOjs8KWhc0JK8zsml0yI80">Class 5</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=66dmgQkOSxc&list=PLFMb-2_G0bMbO0oEufakkx3M7z8J0O0H7">Class 6</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=zPUtmVYhKsQ&list=PLFMb-2_G0bMYw1qyRJPLVrvjcvu-TeCGA">Class 7</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=t5b5W2gRszs&list=PLFMb-2_G0bMZABEoPbXhJhaUxkHoz90lP">Class 8</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-anchor-line" style="color: #b2904f;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=IZe1tMJcGCQ&list=PLFMb-2_G0bMZWraocvgXUy6WiccGjMEiO">Class 9</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-disc-line" style="color: #b20969;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=Nfv6IMReSOw&list=PLFMb-2_G0bMYcln_EAAqYNW4yx2cvAQI8">Class 10</a></h3>
+            </div>
+          </div>
+
+         <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #b20969;"></i>
+              <h3><a href="">Class 11</a></h3>
+            </div>
+          </div>
+         
+         <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-gradienter-line" style="color: #b20969;"></i>
+              <h3><a href="https://www.youtube.com/watch?v=U0VVixRPyUE&list=PLFMb-2_G0bMZ8CtVtNkxRT5wbsI-JZVR4">Class 12</a></h3>
+            </div>
+          </div>
+         
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+          
+            <a href ="https://samagra.kite.kerala.gov.in/#/textbook/page"><img class="" style="width:20%; height:65px;" src="icon2.png">Samagra Text Books</a>
+        </div>
+          </div>
+        
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <a href ="course-details4.html"><img class="" style="width:20%; height:65px;" src="assets/img/lk.jpeg"><button type="button" class="btn btn-outline-success">Applications for Little Kites</button></a>
+            </div>
+          </div>
+        
+        
+        
+        </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
